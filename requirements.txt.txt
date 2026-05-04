@@ -1,0 +1,3 @@
+Python 版本：Python 3.8 及以上
+运行环境：支持 Kaggle 
+Kaggle：挂载肺炎 X 光数据集，使用默认 GPU 环境
